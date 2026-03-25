@@ -1,3 +1,4 @@
+package desafio_empresa_emcapsulamento;
 public class App {
     public static void main(String[] args) {
         Funcionario funcionario1 = new Funcionario("João", 2000);

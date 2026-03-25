@@ -1,3 +1,4 @@
+package desafio_empresa_emcapsulamento;
 public class Funcionario {
     private String nome;
     private double salarioBase;

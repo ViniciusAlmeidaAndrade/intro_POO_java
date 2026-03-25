@@ -1,3 +1,4 @@
+package desafio_empresa_emcapsulamento;
 public class Gerente extends Funcionario{
     private double bonus;
 
